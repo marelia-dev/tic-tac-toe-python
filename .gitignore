@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+*.egg-info/
+pip-log.txt
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Zaidimo duomenys
+zaidejai.pkl
+
+# Windows / Mac siuksles
+Thumbs.db
+.DS_Store
