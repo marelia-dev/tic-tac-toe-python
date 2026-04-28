@@ -30,4 +30,5 @@ pyinstaller TicTacToe.v1.spec
 Vykdomasis failas bus aplanke `dist/`.
 
 ## Autorius
-**Marijanas Molis** — Python / Django Developer
+**Marijanas Molis** 
+Python / Django Developer
